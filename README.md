@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @gangadharashettypj
-- 👀 I’m interested in App Development and iOT
-- 🌱 I’m currently learning Flutter, 
-- 📫 Reach out to me on email: gangadharashetty.gs@gmail.com
+[![Ganesh's Github stats](https://github-readme-stats.vercel.app/api?username=gangadharashettypj&show_icons=true)](https://github.com/gangadharashettypj)
 
-<!---
-gangadharashettypj/gangadharashettypj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gangadharashettypj&langs_count=10&layout=compact&hide=html,css)](https://github.com/gangadharashettypj)
